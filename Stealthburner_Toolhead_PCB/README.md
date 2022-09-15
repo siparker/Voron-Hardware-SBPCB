@@ -29,8 +29,8 @@ This toolhead PCB is designed to work with the Voron Clockwork 2 extruder and Vo
 | Molex 430251400 | 1 |
 | JST-PH 4pin | 1 |
 | JST-PH 3pin | 3 |
-| 2x4 right angle female header (2.54 pitch) | 1 |
-| 2x4 straigh male pins (2.54 pitch) | 1 |
+| 2x4 right angle male pins (2.54 pitch) | 1 |
+| 2x4 straigh female header (2.54 pitch) | 1 |
 | BAT85 | 1 |
 
  	
